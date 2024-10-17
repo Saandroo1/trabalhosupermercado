@@ -9,7 +9,7 @@ body {
     background-color: #f8f9fa;
     color: #333;
     line-height: 0.9;
-    display: block;
+    display:inline-block;
     flex-direction: row;
 
 }
