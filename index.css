@@ -1,11 +1,9 @@
-/* Reset básico para remover margens e espaçamentos padrões */
-
-* {
-    margin: auto;
-    padding: auto;
+*{
+    margin: 1;
+    padding: 1;
     box-sizing: border-box;
 }
-
+   
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #f8f9fa;
@@ -99,7 +97,6 @@ ul {
 }
 
 
-/* Hero Section */
 
 .hero {
     background: linear-gradient(rgba(0, 62, 126, 0.7), rgba(0, 62, 126, 0.7)), url('img/hero-banner.jpg') center/cover no-repeat;
